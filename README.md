@@ -12,7 +12,7 @@ There is little to no error detection -- if there is a failure, it will move on 
 
 arguments:
 
-`-s` the XYZ space you want to write to
-`-t` tags you want to add to all features
-`-p` property values you want to turn into a tag
-`-f` strings to search for in filenames to add as tags
+- `-s` the XYZ space you want to write to
+- `-t` tags you want to add to all features
+- `-p` property values you want to turn into a tag
+- `-f` strings to search for in filenames to add as tags
