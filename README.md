@@ -1,4 +1,4 @@
-# xyz_bulk_uploader
+# XYZ bulk uploader
 
 This Python3 script uploads files in a directory to an XYZ Space using the HERE CLI. 
 
